@@ -2,7 +2,7 @@
     "name": "jpg-consulting/simpleinvoices-systemdefaults",
     "autoload" : {
         "psr-4" : {
-            "SimpleInvoices\\SystemDefaults" : "src/"
+            "SimpleInvoices\\SystemDefaults\\" : "src/"
         },
         "classmap" : [
             "./Module.php"
